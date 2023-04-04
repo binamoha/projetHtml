@@ -1,0 +1,102 @@
+body{
+    background-image: url("./images/contact.jpg");
+    background-size: cover;
+}
+
+
+.h1{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    color: orange;
+    font-size: xx-large;
+   
+}
+.puces{
+    background-color: rgba(27, 31, 34, 0.85);
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    font-size: x-large;
+
+    margin-left: 10%;
+    margin-right: 10%;
+    color: orange;
+    
+}
+.presentation{
+    display: flex;
+    margin-left: 25%;
+    padding-right: 5%;
+    padding-top: 1%;
+    background-color: rgba(27, 31, 34, 0.85);
+    width: 40%;
+}
+.bg{
+    width: 40%;
+    padding-left: 30%;
+   
+
+}
+
+.puces:hover{
+    color: blue;
+}
+.accueil{
+    color: white;
+    text-align: center;
+}
+.text-center{
+    color: white;
+}
+.nos-menus{
+    color: white;
+    text-align: center;
+}
+.img{
+width: 60%;
+padding-left: 22%;
+}
+.h2{
+    display: flex;
+    text-align: center;
+    color: orange;
+}
+.text-center{
+    display: flex;
+    text-align: center;
+    padding-left: 22%;
+    padding-right: 22%;
+}
+form{
+    
+    padding-left: 40%;
+   color: white;
+}
+
+.contact{
+   background-image:  url("./images/contact.jpg");
+  background-size: cover;
+}  
+a{
+    color: white;
+}
+a:hover {
+    background-color: gold;
+  }
+  input{
+    border-radius: 10px;
+    width: 500px;
+    height: 30px;
+  }
+  textarea{
+    width: 500px;
+    height: 150px;
+    border-radius: 20px;
+  }
+  ul{
+    display: flex;
+    justify-content: space-around;
+    padding-right: 50%;
+    padding-top: 5%;
+  }
